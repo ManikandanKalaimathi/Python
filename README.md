@@ -22,13 +22,13 @@ Features :
 Installation :
 Ensure you have Python installed. If not, download and install it from Python's official website.
 Clone the repository:
-git clone https://github.com/your_username/pong-game.git
+git clone https://github.com/ManikandanKalaimathi/Pong.py
 
 Install the required dependencies:
 pip install -r requirements.txt
 
 How to Play :
-To start the game, run the `pong_game.py` file using Python. The game window will open, and you can start playing immediately.
+To start the game, run the `Pong.py` file using Python. The game window will open, and you can start playing immediately.
 
 Controls :
 ->Player A (Left Paddle):
